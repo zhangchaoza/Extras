@@ -1,13 +1,13 @@
 {
-    "version": "2.37.3",
+    "version": "2.37.6",
     "description": "Video encoding GUI for Windows.",
     "homepage": "https://github.com/staxrip/staxrip",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/staxrip/staxrip/releases/download/v2.37.3/StaxRip-v2.37.3-x64.7z",
-            "hash": "511e45bc91027cc96740d2e9d978907ba2bea37b9cba0f86e239968f7fc4c23b",
-            "extract_dir": "StaxRip-v2.37.3-x64"
+            "url": "https://github.com/staxrip/staxrip/releases/download/v2.37.6/StaxRip-v2.37.6-x64.7z",
+            "hash": "6457c9a57c48b2d52b2472b144393453096170d5af195869bac315e929c363e0",
+            "extract_dir": "StaxRip-v2.37.6-x64"
         }
     },
     "shortcuts": [

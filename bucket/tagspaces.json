@@ -1,12 +1,12 @@
 {
-    "version": "5.7.11",
+    "version": "5.7.13",
     "description": "An offline document manager with tagging support",
     "homepage": "https://www.tagspaces.org",
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tagspaces/tagspaces/releases/download/v5.7.11/tagspaces-win-x64-5.7.11.zip",
-            "hash": "0f57972c1d09d2960e45be2e3a047e6f3192d0f2789a06d78112d1e1fd5207f4"
+            "url": "https://github.com/tagspaces/tagspaces/releases/download/v5.7.13/tagspaces-win-x64-5.7.13.zip",
+            "hash": "dd261abab690cfb8d2ff7cd7eddc93897401be481e45f2d234259fea296e655e"
         }
     },
     "bin": [
